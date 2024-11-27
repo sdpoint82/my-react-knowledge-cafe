@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "cover_picture": "https://i.ibb.co.com/N9Z5kQ4/pexels-arlindphotography-29137971.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/M6TZTRT/profile.png",
+      "tag": "Technology",
+      "title": "Exploring the Future of AI",
+      "posted_date": "2024-11-01",
+      "reading_time": 5 ,
+      "hashtags": ["#AI", "#TechTrends", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "cover_picture": "https://i.ibb.co.com/726JGyz/pexels-efrem-efre-2786187-28853291.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/gvFwmLb/boy1.png",
+      "tag": "Health",
+      "title": "10 Tips for a Healthier Life",
+      "posted_date": "2024-11-10",
+      "reading_time": 7,
+      "hashtags": ["#Wellness", "#HealthTips", "#Lifestyle"]
+    },
+    {
+      "id": 3,
+      "cover_picture": "https://i.ibb.co.com/x5xhdJn/pexels-nc-farm-bureau-mark-2466778.jpg",
+      "author": "Alex Brown",
+      "author_img": "https://i.ibb.co.com/VM8G20f/boy2.jpg",
+      "tag": "Travel",
+      "title": "Top 5 Destinations for 2025",
+      "posted_date": "2024-11-15",
+      "reading_time": 6,
+      "hashtags": ["#Travel", "#Adventure", "#Wanderlust"]
+    },
+    {
+      "id": 4,
+      "cover_picture": "https://i.ibb.co.com/826GZsB/pexels-pealdesign-28760758.jpg",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co.com/VNr3YCB/girl2.jpg",
+      "tag": "Finance",
+      "title": "Understanding Personal Finance",
+      "posted_date": "2024-11-20",
+      "reading_time": 8,
+      "hashtags": ["#Finance", "#MoneyManagement", "#Savings"]
+    },
+    {
+      "id": 5,
+      "cover_picture": "https://i.ibb.co.com/ZGHXpRW/pexels-kelcey-shotit-696990889-28870747.jpg",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/6D6DjsQ/girl1.jpg",
+      "tag": "Lifestyle",
+      "title": "Minimalism: The Key to Happiness",
+      "posted_date": "2024-11-22",
+      "reading_time": 4,
+      "hashtags": ["#Minimalism", "#Happiness", "#LifeTips"]
+    }
+  ]
+  
